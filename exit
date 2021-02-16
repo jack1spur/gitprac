@@ -1,0 +1,11 @@
+[33mcommit fc736acbbc6348c669af659b01f10ab0b87e9e38[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Jack Spurlock <jack1spur1@gmail.com>
+Date:   Tue Feb 16 13:54:04 2021 +0000
+
+    add test.txt and a README
+
+[33mcommit 54f89fbe05315a76892b0cd970061b71d0bd7795[m
+Author: Jack Spurlock <jack1spur1@gmail.com>
+Date:   Tue Feb 16 13:44:50 2021 +0000
+
+    initial commit
