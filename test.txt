@@ -1,3 +1,4 @@
 hello
-wide
+small
+awful
 world
